@@ -99,16 +99,3 @@ ATUALMENTE ESTOU DESENVOLVENDO MEU REPOSITÓRIO E PORTFÓLIO ORGANIZANDO O CONTE
     style="padding-right: 10px;"  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg"
 />
-
-
-## 🧠 CONHECIMENTOS
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"
-  width="35"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasGSilva&layout=compact&theme=dark"
-  width="350"
-/>
