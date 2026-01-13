@@ -22,8 +22,7 @@ Atualmente estou no 4° semestre de CIÊNCIA DA COMPUTAÇÃO mas sou formado com
         title="Último Commit"
         a="https://github.com/NicolasGSilva?tab=repositories"
         style="padding-right: 10px;"
-        src="https://img.shields.io/github/last-commit/NicolasGSilva/NicolasGSilva?style=for-the-badge&logo=Git&label=%C3%9ALTIMO%20COMMIT&labelColor=%23050726&color=%23081193
-        "
+        src="https://img.shields.io/github/last-commit/NicolasGSilva/NicolasGSilva?style=for-the-badge&logo=Git&label=%C3%9ALTIMO%20COMMIT&labelColor=%23050726&color=%23081193"
     />
 </p>
 
